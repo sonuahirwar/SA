@@ -8,4 +8,8 @@ class Hello{
     String Branch;
     int id;
    }
+  public void Course(){
+    String Subject;
+    int id;
+  }
 }                      
